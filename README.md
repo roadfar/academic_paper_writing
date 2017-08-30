@@ -1,2 +1,2 @@
-# academic_paper_writing
-A learning project to accumulate good sentences and expression: a Chinese Phd student's learning notes
+# 短语
+1. This is in stark contrast to： 这和。。形成鲜明对比
