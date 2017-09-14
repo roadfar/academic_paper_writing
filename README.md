@@ -9,4 +9,7 @@
 
 
 # 单词
-8. antithetical 对立的；正相反的
+1. antithetical 对立的；正相反的
+
+# 句子
+1. 连起来讲平均数和中位数：They submit an average of 42 times with a median of 24 times.
