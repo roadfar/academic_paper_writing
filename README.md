@@ -5,3 +5,4 @@
 4. is subject to： 从属于，受支配
 5. Accordingly: 相应地；于是；因此
 6. make sense of: 理解
+7. hands-on 亲手实践的；亲自动手的
