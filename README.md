@@ -6,3 +6,4 @@
 5. Accordingly: 相应地；于是；因此
 6. make sense of: 理解
 7. hands-on 亲手实践的；亲自动手的
+8. antithetical 对立的；正相反的
