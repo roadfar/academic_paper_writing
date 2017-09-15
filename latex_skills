@@ -1,0 +1,38 @@
+# latex使用技巧记录
+
+## 多个作者分享一个机构地址
+% Use your conference documentclass or package.
+\documentclass[letterpaper,twocolumn,10pt]{article}
+
+% If your conference documentclass or package defines these macros,
+% change these macros to different names.
+\newcommand*{\affaddr}[1]{#1} % No op here. Customize it for different styles.
+\newcommand*{\affmark}[1][*]{\textsuperscript{#1}}
+\newcommand*{\email}[1]{\texttt{#1}}
+
+\begin{document}
+% Don't want date printed
+\date{}
+% Make title large and bold
+\title{\Large\bfseries Paper Name Here}
+
+% Target typesetting:
+%
+% Author A, Author B, Author C, Author D and Author E
+%        A,B,C Department of Computer Science
+%       D,E Department of Mechanical Engineering
+%          Email A,B,C,D,E @university.edu
+%                  Latex University
+
+\author{%
+Author A\affmark[1], Author B\affmark[1], Author C\affmark[1], Author D\affmark[2], and Author E\affmark[2]\\
+\affaddr{\affmark[1]Department of Computer Science}\\
+\affaddr{\affmark[2]Department of Mechanical Engineering}\\
+\email{\{A,B,C,D,E\}@university.edu}\\
+\affaddr{\LaTeX\ University}%
+}
+
+\maketitle
+\end{document}
+
+![](https://i.stack.imgur.com/r5V5e.png)
