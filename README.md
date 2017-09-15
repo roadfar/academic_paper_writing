@@ -12,5 +12,14 @@
 1. antithetical 对立的；正相反的
 
 # 句子
+
+- 使用简单句，突出重点，少用从句
+- 先说重点，句子结构是从重到轻到越来越轻
+- which引出的句子语气重，ing引出的句子语气轻
+- 客观句代替被动句
+- 少用could, might, should
+- 副词多用hopefully, completely, intuitively
+
+
 1. 连起来讲平均数和中位数：They submit an average of 42 times with a median of 24 times.
 2. 还有一种方式表因果，考虑到：Given that 。。。
