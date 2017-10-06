@@ -11,6 +11,8 @@
 
 # 单词
 1. antithetical 对立的；正相反的
+2. connotations 内涵
+
 
 # 句子
 
