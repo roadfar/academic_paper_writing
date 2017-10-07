@@ -8,6 +8,8 @@
 7. hands-on 亲手实践的；亲自动手的
 8. As an alternative 作为代替方案
 9. in the sense (of/that)：就...意义而言
+10. To achieve this: 为了实现这个目标
+
 
 # 单词
 1. antithetical 对立的；正相反的
