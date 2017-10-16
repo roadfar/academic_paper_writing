@@ -9,7 +9,7 @@
 8. As an alternative 作为代替方案
 9. in the sense (of/that)：就...意义而言
 10. To achieve this: 为了实现这个目标
-
+11. strive to 努力；力图；追求
 
 # 单词
 1. antithetical 对立的；正相反的
