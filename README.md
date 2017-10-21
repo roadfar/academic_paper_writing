@@ -19,7 +19,7 @@
 # 句子
 
 1. Considering ..., it is reasonable to do sth
-
+2. ... in the sense that ...: ...意味着...
 
 - 使用简单句，突出重点，少用从句
 - 先说重点，句子结构是从重到轻到越来越轻
