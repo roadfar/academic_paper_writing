@@ -31,3 +31,6 @@
 
 1. 连起来讲平均数和中位数：They submit an average of 42 times with a median of 24 times.
 2. 还有一种方式表因果，考虑到：Given that 。。。
+
+
+4
