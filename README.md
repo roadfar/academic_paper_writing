@@ -10,6 +10,7 @@
 9. in the sense (of/that)：就...意义而言
 10. To achieve this: 为了实现这个目标
 11. strive to 努力；力图；追求
+12. are in line with: 和...符合（一般用于与之前的工作的比较）
 
 # 单词
 1. antithetical 对立的；正相反的
@@ -31,6 +32,3 @@
 
 1. 连起来讲平均数和中位数：They submit an average of 42 times with a median of 24 times.
 2. 还有一种方式表因果，考虑到：Given that 。。。
-
-
-4
