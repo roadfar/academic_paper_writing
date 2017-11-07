@@ -11,6 +11,7 @@
 10. To achieve this: 为了实现这个目标
 11. strive to 努力；力图；追求
 12. are in line with: 和...符合（一般用于与之前的工作的比较）
+13. and vice versa：反之亦然
 
 # 单词
 1. antithetical 对立的；正相反的
