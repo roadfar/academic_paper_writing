@@ -23,6 +23,7 @@
 
 1. Considering ..., it is reasonable to do sth
 2. ... in the sense that ...: ...意味着...
+3. We restrict our attention to ...： 我们把注意力聚焦在。。。
 
 - 使用简单句，突出重点，少用从句
 - 先说重点，句子结构是从重到轻到越来越轻
