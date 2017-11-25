@@ -15,6 +15,7 @@
 14. To this end：为了这个目的
 15. Perhaps more interesting is that：更有趣的是
 16. shed light on：阐明
+17. for ease of analysis: 为了方便分析
 
 
 # 单词
