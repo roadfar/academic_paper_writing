@@ -16,6 +16,8 @@
 15. Perhaps more interesting is that：更有趣的是
 16. shed light on：阐明
 17. for ease of analysis: 为了方便分析
+18. a marked shift towards: 显著的转型到
+17. for ease of analysis: 为了方便分析
 
 
 # 单词
