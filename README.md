@@ -18,7 +18,7 @@
 17. for ease of analysis: 为了方便分析
 18. a marked shift towards: 显著的转型到
 17. for ease of analysis: 为了方便分析
-
+18. Some efforts have proposed。。：有些工作提出了。。
 
 # 单词
 1. antithetical 对立的；正相反的
@@ -38,7 +38,7 @@
 - 客观句代替被动句
 - 少用could, might, should
 - 副词多用hopefully, completely, intuitively
-
+ 
 
 1. 连起来讲平均数和中位数：They submit an average of 42 times with a median of 24 times.
 2. 还有一种方式表因果，考虑到：Given that 。。。
