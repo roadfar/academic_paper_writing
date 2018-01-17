@@ -19,6 +19,7 @@
 18. a marked shift towards: 显著的转型到
 17. for ease of analysis: 为了方便分析
 18. Some efforts have proposed。。：有些工作提出了。。
+19. 。。 is growing increasingly prevalent: ..变得越来越主流
 
 # 单词
 1. antithetical 对立的；正相反的
