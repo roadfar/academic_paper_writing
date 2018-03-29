@@ -21,6 +21,7 @@
 18. Some efforts have proposed。。：有些工作提出了。。
 19. 。。 is growing increasingly prevalent: ..变得越来越主流
 20. Recall that ..：回忆起前文所说的。。
+21. draw upon: 利用；开出；总结 
 
 # 单词
 1. antithetical 对立的；正相反的
