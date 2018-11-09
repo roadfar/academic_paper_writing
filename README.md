@@ -23,6 +23,7 @@
 20. Recall that ..：回忆起前文所说的。。
 21. draw upon: 利用；开出；总结
 22. By analogy: 以此类推；同样地
+23. in the absence of: 没有。。
 
 # 单词
 1. antithetical 对立的；正相反的
