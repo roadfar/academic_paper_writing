@@ -24,6 +24,7 @@
 21. draw upon: 利用；开出；总结
 22. By analogy: 以此类推；同样地
 23. in the absence of: 没有。。
+24. Recent years have witnessed the ..: 近几年见证了。。
 
 # 单词
 1. antithetical 对立的；正相反的
