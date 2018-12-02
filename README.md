@@ -25,6 +25,7 @@
 22. By analogy: 以此类推；同样地
 23. in the absence of: 没有。。
 24. Recent years have witnessed the ..: 近几年见证了。。
+25. yield .. results: 产生出。。结果
 
 # 单词
 1. antithetical 对立的；正相反的
